@@ -1,0 +1,2 @@
+# CentredMovingAverage
+CentredMovingAverage
