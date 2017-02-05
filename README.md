@@ -14,9 +14,7 @@ A Hello World, no Hello Centred Moving Average example showing code differences.
 
 Written by Michael D O'Shea, find me at:
 
-https://www.linkedin.com/in/michaeldoshea
-http://www.strychnine.co.uk
-https://twitter.com/michaeldoshea
+https://www.linkedin.com/in/michaeldoshea or http://www.strychnine.co.uk or https://twitter.com/michaeldoshea
 
 ## License
 
